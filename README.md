@@ -1,4 +1,5 @@
 # AWS Ffmpeg Lambda Layer
+[![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
 
 ### Statically compiled Ffmpeg binary with serverless file to setup a lambda layer.
 
